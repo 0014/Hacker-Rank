@@ -1,0 +1,1 @@
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\Longest_Increasing_Subsequence\Longest_Increasing_Subsequence\bin\Debug\Longest_Increasing_Subsequence.exe.config

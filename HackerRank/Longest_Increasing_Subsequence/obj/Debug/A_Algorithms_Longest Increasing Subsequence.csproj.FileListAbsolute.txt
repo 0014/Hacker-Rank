@@ -1,0 +1,6 @@
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Longest_Increasing_Subsequence\bin\Debug\Longest_Increasing_Subsequence.exe.config
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Longest_Increasing_Subsequence\bin\Debug\Longest_Increasing_Subsequence.exe
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Longest_Increasing_Subsequence\bin\Debug\Longest_Increasing_Subsequence.pdb
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Longest_Increasing_Subsequence\obj\Debug\A_Algorithms_Longest Increasing Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Longest_Increasing_Subsequence\obj\Debug\Longest_Increasing_Subsequence.exe
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Longest_Increasing_Subsequence\obj\Debug\Longest_Increasing_Subsequence.pdb

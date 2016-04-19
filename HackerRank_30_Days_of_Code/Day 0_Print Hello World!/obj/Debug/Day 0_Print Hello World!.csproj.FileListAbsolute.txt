@@ -1,0 +1,6 @@
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Print_Hello_World!\bin\Debug\Print_Hello_World!.exe.config
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Print_Hello_World!\bin\Debug\Print_Hello_World!.exe
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Print_Hello_World!\bin\Debug\Print_Hello_World!.pdb
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Print_Hello_World!\obj\Debug\Day 0_Print Hello World!.csprojResolveAssemblyReference.cache
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Print_Hello_World!\obj\Debug\Print_Hello_World!.exe
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\HackerRank\Print_Hello_World!\obj\Debug\Print_Hello_World!.pdb

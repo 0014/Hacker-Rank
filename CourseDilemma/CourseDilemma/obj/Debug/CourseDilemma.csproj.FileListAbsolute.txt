@@ -1,0 +1,6 @@
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\CourseDilemma\CourseDilemma\bin\Debug\CourseDilemma.exe.config
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\CourseDilemma\CourseDilemma\obj\Debug\CourseDilemma.csprojResolveAssemblyReference.cache
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\CourseDilemma\CourseDilemma\bin\Debug\CourseDilemma.exe
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\CourseDilemma\CourseDilemma\bin\Debug\CourseDilemma.pdb
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\CourseDilemma\CourseDilemma\obj\Debug\CourseDilemma.exe
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\CourseDilemma\CourseDilemma\obj\Debug\CourseDilemma.pdb

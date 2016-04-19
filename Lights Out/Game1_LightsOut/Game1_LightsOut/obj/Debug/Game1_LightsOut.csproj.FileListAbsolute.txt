@@ -1,0 +1,6 @@
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\Lights Out\Game1_LightsOut\Game1_LightsOut\bin\Debug\Game1_LightsOut.exe.config
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\Lights Out\Game1_LightsOut\Game1_LightsOut\obj\Debug\Game1_LightsOut.csprojResolveAssemblyReference.cache
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\Lights Out\Game1_LightsOut\Game1_LightsOut\bin\Debug\Game1_LightsOut.exe
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\Lights Out\Game1_LightsOut\Game1_LightsOut\bin\Debug\Game1_LightsOut.pdb
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\Lights Out\Game1_LightsOut\Game1_LightsOut\obj\Debug\Game1_LightsOut.exe
+C:\Users\arif.gencosmanoglu\Documents\EnteringC#\Hacker Contest\Lights Out\Game1_LightsOut\Game1_LightsOut\obj\Debug\Game1_LightsOut.pdb
